@@ -11,7 +11,9 @@ https://www.headlesscreator.com/contentful-dev-show
 Make sure you create a .env file at the root level with the following elements in it:
 
 CMA_TOKEN="{CMA TOKEN ID}"
+
 SPACE_ID="{Contentful Space ID}"
+
 ENVIRONMENT_ID="{Contentful Environment}"
 
 ## Credits
