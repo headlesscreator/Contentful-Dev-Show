@@ -2,7 +2,8 @@
 
 Working with Locales using Contentful's Content Management API
 
-###Episode Link
+### Episode Link
+
 https://www.headlesscreator.com/contentful-dev-show
 
 ## Installation
