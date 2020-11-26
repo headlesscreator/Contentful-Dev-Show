@@ -1,6 +1,8 @@
 # Contentful Dev Show E4
 
 Working with Locales using Contentful's Content Management API
+
+###Episode Link
 https://www.headlesscreator.com/contentful-dev-show
 
 ## Installation
