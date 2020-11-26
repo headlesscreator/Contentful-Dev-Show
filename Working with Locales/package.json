@@ -1,0 +1,16 @@
+{
+  "name": "working-with-locales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Lewin",
+  "license": "ISC",
+  "dependencies": {
+    "contentful": "^7.15.0",
+    "contentful-management": "^7.3.0",
+    "dotenv": "^8.2.0"
+  }
+}
