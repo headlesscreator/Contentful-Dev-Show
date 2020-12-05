@@ -18,10 +18,10 @@ client
   .then((space) => space.getEnvironment(environmentID))
   .then((environment) =>
     environment.createLocale({
-      name: "AATestLocal",
-      code: "AATT",
-      fallbackCode: null,
-      contentDeliveryApi: false,
+      name: "Klingon",
+      code: "KL",
+      fallbackCode: "en-US",
+      contentDeliveryApi: true,
       contentManagementApi: true,
       optional: true,
     })

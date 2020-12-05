@@ -19,7 +19,7 @@ client
   .then((space) => space.getEnvironment(environmentID))
   .then((environment) => environment.getLocale(localeID))
   .then((locale) => {
-    locale.name = "Arabic (Jordan)";
+    locale.name = "Arabic (Jordan) UPDATED";
     locale.code = "ar-JO";
     locale.fallbackCode = null;
     locale.contentDeliveryApi = false;
